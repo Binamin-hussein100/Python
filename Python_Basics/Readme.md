@@ -70,9 +70,14 @@ Python has five standard DATATYPES
  * Strings
     * Contiguous set of characters represented in quation marks
     * Can be represented using single quotes (''), double ("") or triple quotes ("""fhvur""")
-    
+
  * List
+    * Contains items separated by commas and enclosed in square brackets []. 
+    * All Items in a list can be of different types
  * Tuple
+    * Unlike lists, tuples are enclosed within parentheses ()
+    * Its contents are separated by commas too.
+    * Tuples cannot be updated
  * Dictionary
 
 
