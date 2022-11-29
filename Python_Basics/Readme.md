@@ -48,3 +48,32 @@ If the identifier also ends with two trailing underscores, the identifier is a l
 ### Quotations in python
 Python accepts single('), double(") and triple('''or""")
 
+## Variables
+
+Reversed memory location to store values.
+
+They dont need explicit declaration eg like JS (let, const and var)
+
+The equal sign (=) is used to assign a value to a variable  
+
+## PYTHON STANDARD DATATYPES
+
+Python has five standard DATATYPES
+
+ * Numbers
+    * They store numeric values
+    * Supports 4 different numerical types
+        * int (signed int) (eg: 23)
+        * float (float point real value) (eg: 15.20)
+        * long (ong integers, they can also be represented in octal and hexadecimal) (eg: 51924361L)
+        * Complex (complex numbers) (eg: 45.j)
+ * Strings
+    * Contiguous set of characters represented in quation marks
+    * Can be represented using single quotes (''), double ("") or triple quotes ("""fhvur""")
+    
+ * List
+ * Tuple
+ * Dictionary
+
+
+
