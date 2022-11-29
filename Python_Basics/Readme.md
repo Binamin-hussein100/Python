@@ -27,3 +27,24 @@ Python variables are assigned using snake case and  in lower case. Uppercase can
 ### To add interactivity to a CLI
 Use ***input("Your question?") ***
 ###### Everything you create in python is an object.
+
+### Identifiers
+These are names used to identify variables, functions, classes and modules or other objects.
+
+* Must start with A-Z or a-z or underscore(_) 
+Python doesnot allow punctuation characters eg @,$ and %
+
+Python is case sensitive. 
+That would mean that Manpower and manpower are two different variables.
+
+Classnames start with upper case letters while the rest of the identifiers start with lower case letters.
+
+Starting an identifier with a single leading underscore indicates that the identifier is private.
+
+Starting an identifier with two leading underscores indicates a strongly private identifier.
+
+If the identifier also ends with two trailing underscores, the identifier is a language-defined special name.
+
+### Quotations in python
+Python accepts single('), double(") and triple('''or""")
+
