@@ -79,6 +79,7 @@ Python has five standard DATATYPES
     * Its contents are separated by commas too.
     * Tuples cannot be updated
  * Dictionary
-
+    * Consists of keys-value pairs
+    * Enclosed in curly braces ***{}***
 
 

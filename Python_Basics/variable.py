@@ -30,15 +30,27 @@ name = "hello world!"
 print(name[2:5]) # llo
 
 # Lists
+
 listy = [1,2,3,4,5] # list
 [1,"john", 43,["g","k"]] # list containing different datatypes.
 # values of a list can be accessed using the slice operator [:]
 print(listy[0]) # [1,2,3]
 
 # Tuples ==> READ-ONLY lists
+
 tinyTuple = (123,"john") 
 
 # updating a tuple is not supported
 # tinyTuple[0] =  14 # TypeError: 'tuple' object does not support item assignment
 
+# Objects
+tinyDict = {
+    'name': 'john',
+    'code':6734, 
+    'dept': 'sales'
+}
+# its values can be accessed using square brackets
+print(tinyDict['dept']) #'sales'
+print(tinyDict['name']) # 'john'
+print(tinyDict['code']) # '6734')
 
